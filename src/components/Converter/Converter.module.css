@@ -1,0 +1,13 @@
+.row {
+  display: flex;
+  align-items: center;
+}
+
+.row + .row {
+  margin-top: 90px;
+}
+
+.input {
+  margin-right: 32px;
+  flex-grow: 1;
+}
