@@ -16,10 +16,21 @@
   font-family: inherit;
   width: 100%;
   display: block;
+
+  transition: border-color 0.3s;
+  border: 10px solid transparent;
 }
 
 .input::-webkit-outer-spin-button,
 .input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
+}
+
+.input:read-only {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.input:focus:not(:read-only) {
+  border-color: rgba(255, 255, 255, 0.6);
 }
