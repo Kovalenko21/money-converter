@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/money-converter/static/css/main.b687db7d.chunk.css",
+    "main.js": "/money-converter/static/js/main.5441db74.chunk.js",
+    "main.js.map": "/money-converter/static/js/main.5441db74.chunk.js.map",
+    "runtime-main.js": "/money-converter/static/js/runtime-main.3859c938.js",
+    "runtime-main.js.map": "/money-converter/static/js/runtime-main.3859c938.js.map",
+    "static/js/2.b9836b08.chunk.js": "/money-converter/static/js/2.b9836b08.chunk.js",
+    "static/js/2.b9836b08.chunk.js.map": "/money-converter/static/js/2.b9836b08.chunk.js.map",
+    "index.html": "/money-converter/index.html",
+    "static/css/main.b687db7d.chunk.css.map": "/money-converter/static/css/main.b687db7d.chunk.css.map",
+    "static/js/2.b9836b08.chunk.js.LICENSE.txt": "/money-converter/static/js/2.b9836b08.chunk.js.LICENSE.txt",
+    "static/media/EU.d147fbe7.svg": "/money-converter/static/media/EU.d147fbe7.svg",
+    "static/media/Poland.cf29d689.svg": "/money-converter/static/media/Poland.cf29d689.svg",
+    "static/media/UK.6af3a593.svg": "/money-converter/static/media/UK.6af3a593.svg",
+    "static/media/USA.1346737d.svg": "/money-converter/static/media/USA.1346737d.svg",
+    "static/media/Ukraine.71ab7342.svg": "/money-converter/static/media/Ukraine.71ab7342.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3859c938.js",
+    "static/js/2.b9836b08.chunk.js",
+    "static/css/main.b687db7d.chunk.css",
+    "static/js/main.5441db74.chunk.js"
+  ]
+}
