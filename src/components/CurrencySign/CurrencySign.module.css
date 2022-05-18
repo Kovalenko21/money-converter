@@ -1,0 +1,27 @@
+.wrapper {
+  width: 188px;
+  height: 188px;
+  position: relative;
+}
+
+.sign {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 50%;
+  color: #fff;
+  font-size: 120px;
+
+  color: #ffffff;
+}
+
+.flag {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
